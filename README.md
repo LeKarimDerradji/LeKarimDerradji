@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**LeKarimDerradji/LeKarimDerradji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 
 - ⚡ Fun fact: even trought i'm introvert, I love to organize and set things in motion to direct the energy of a group towards one common direction. 
--->
