@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- :sparkles: I’m currently studying ##Web and ##Blockchain developpment at Alyra, the first Blockchain School in Europe. :star:
+- :sparkles: I’m currently studying Web and Blockchain developpment at Alyra, the first Blockchain School in Europe. :sparkles:
 
-- 🌱 I’m currently learning Javascript / React / Solidity / Truffle / Ethereum VM / And all things Blockchain :) 
+- 🌱 I’m currently learning Javascript / React / Solidity / Truffle / Ethereum VM / And all things Blockchain :tulip:
 
 -  :computer: I’m looking to collaborate on projects that necessitate creative and lateral thinkings, if you need someone to think, I'm here. 
 
