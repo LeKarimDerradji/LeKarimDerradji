@@ -13,7 +13,5 @@ What is up with LeKarimDerradji ?
 
 - 📫 How to reach me: karim.derradji.pro@gmail.com / discord: Ammh#0957
 
-- ⚡ Fun fact: even trought i'm introvert, I love to organize and set things in motio, to direct the energy of a group towards one common direction, 
-               for things as for people, I love to see the underlying architechtures and forces that drives something, or someone. 
+- ⚡ Very curious about eveything tech. May you contact me by email and discord to talk about any projects/thing.
 
-... Currently learning about NFT's and Blockchain/Smart_Contract vulnerabilities ...
