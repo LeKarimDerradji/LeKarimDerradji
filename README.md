@@ -11,7 +11,6 @@ What is up with LeKarimDerradji ?
 
 - 💬 Ask me about anything, if you want me to work on a project already, contact me. 
 
-- 📫 How to reach me: karim.derradji.pro@gmail.com / discord: Ammh#0957
-
+- 📫 How to reach me: karim.derradji.pro@gmail.com / 
 - ⚡ Very curious about eveything tech. May you contact me by email and discord to talk about any projects/thing.
 
