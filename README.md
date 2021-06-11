@@ -3,9 +3,7 @@
 
 What is up with LeKarimDerradji ? 
 
-- :sparkles: I’m currently studying Web and Blockchain developpment at Alyra, the first Blockchain School in Europe. :sparkles:
-
-- 🌱 I’m currently learning Javascript / React / Solidity / Hardhat / Waffle / Ethereum VM / And all things Blockchain :tulip:
+- :sparkles: I’m currently studying Web and Blockchain developpment. :sparkles:
 
 -  :computer: I’m looking to collaborate on projects that necessitate creative and lateral thinkings, if you need someone to think, I'm here. 
 
