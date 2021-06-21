@@ -1,5 +1,5 @@
 ### Mining Blockchain Knowledge ...⛏️  👋 :heartpulse:
-![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe5%2F40%2F32%2Fe5403238a4973c41a20cbbf7fa8a98b6.png&f=1&nofb=1)
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F68.media.tumblr.com%2F5de0d676f0e43973cd0171165e2cfadf%2Ftumblr_n7n8lqwzQ41sdqpmho1_500.png&f=1&nofb=1)
 
 What is up with LeKarimDerradji ? 
 
