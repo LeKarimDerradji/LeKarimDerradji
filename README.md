@@ -7,7 +7,7 @@ What is up with LeKarimDerradji ?
 
 -  :computer: I’m looking to collaborate on projects that necessitate creative and lateral thinkings.
 
-- 💬 Ask me about anything, if you want me to work on a project already, contact me. 
+- 💬 Excited about ioT's, Open Sattelite, Blockchain, P2P Protocols, Decentralization and the Future of Money. 
 
 - ⚡Open to work. 
 
