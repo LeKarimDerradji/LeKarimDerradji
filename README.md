@@ -1,4 +1,4 @@
-### Mining Blockchain Knowledge ...⛏️  👋 :heartpulse:
+### Learning & Crafting Dapps ...⛏️
 ![image](https://i.redd.it/0dxlccjg7jz11.png)
 
 What is up with LeKarimDerradji ? 
@@ -9,5 +9,5 @@ What is up with LeKarimDerradji ?
 
 - 💬 Ask me about anything, if you want me to work on a project already, contact me. 
 
-- ⚡ Very curious about eveything tech. May you contact me.
+- ⚡Open to work. 
 
