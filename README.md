@@ -1,4 +1,4 @@
-### Learning & Crafting Dapps ...⛏️
+### Learning & Crafting Dapps ...⛏️ ⚙️
 ![image](https://i.redd.it/0dxlccjg7jz11.png)
 
 What is up with LeKarimDerradji ? 
