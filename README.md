@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/LeKarimDerradji">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeKarimDerradjit&layout=compact&theme=chartreuse-dark&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeKarimDerradji&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
 
 
