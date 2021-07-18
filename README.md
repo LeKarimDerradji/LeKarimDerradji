@@ -1,6 +1,8 @@
 ### Learning & Crafting Dapps ...⛏️ ⚙️
 
-![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeKarimDerradji&show_icons=true&theme=chartreuse-dark)
+<a href="https://github.com/LeKarimDerradji">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeKarimDerradji&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
 
 <a href="https://github.com/LeKarimDerradji">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilsocket&layout=compact&theme=chartreuse-dark&langs_count=8" />
