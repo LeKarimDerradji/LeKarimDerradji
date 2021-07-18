@@ -1,5 +1,7 @@
 ### Learning & Crafting Dapps ...⛏️ ⚙️
-![image](https://i.redd.it/0dxlccjg7jz11.png)
+
+![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeKarimDerradji&show_icons=true&theme=radical)
+
 
 What is up with LeKarimDerradji ? 
 
