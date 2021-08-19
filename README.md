@@ -8,6 +8,10 @@
 
 What is up with LeKarimDerradji ? 
 
+Creator of BLOCKMADNESS
+
+[!vitalik](https://cdn.discordapp.com/attachments/861741561104433192/877933409081647124/unknown.png)
+
 - :sparkles: I’m currently studying Web and Blockchain developpment. :sparkles:
 
 -  :computer: I’m looking to collaborate on projects that necessitate creative and lateral thinkings.
