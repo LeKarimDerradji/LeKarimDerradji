@@ -8,7 +8,7 @@
 
 What is up with LeKarimDerradji ? 
 
-Creator of ### BLOCKMADNESS
+Creator of **BLOCKMADNESS**
 
 ![vitalik](https://cdn.discordapp.com/attachments/861741561104433192/877933409081647124/unknown.png)
 
