@@ -8,10 +8,6 @@
 
 What is up with LeKarimDerradji ? 
 
-Creator of **BLOCKMADNESS**
-
-![vitalik](https://cdn.discordapp.com/attachments/861741561104433192/877933409081647124/unknown.png)
-
 ![disclaimer](https://i.redd.it/j3qyst9mp9a01.jpg)
 
 - :sparkles: I’m a certified full-stack blockchain dev. :sparkles:
