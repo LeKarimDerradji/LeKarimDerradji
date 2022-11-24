@@ -1,9 +1,5 @@
 ### Full-Stack Web3 / Blockchain Developper /  ...⛏️ ⚙️
 
-<a href="https://github.com/LeKarimDerradji">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeKarimDerradji&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a>
-
 
 
 What is up with LeKarimDerradji ? 
