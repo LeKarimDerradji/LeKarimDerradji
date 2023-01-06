@@ -4,8 +4,6 @@
 
 What is up with LeKarimDerradji ? 
 
-![disclaimer](https://i.redd.it/j3qyst9mp9a01.jpg)
-
 - :sparkles: Blockchain Developper +1 year of Experience | Security :sparkles:
 
 -  :computer: I’m looking to collaborate on projects that necessitate creative and lateral thinkings.
