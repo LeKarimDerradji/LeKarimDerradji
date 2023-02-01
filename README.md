@@ -8,7 +8,7 @@ What is up with LeKarimDerradji ?
 
 -  :computer: I’m looking to collaborate on projects that necessitate creative and lateral thinkings.
 
-- 💬 Excited about ioT's, Gaming, Gamification, NFTs, Metaverse. 
+- 💬 Excited about blockchain technology, blockchain security, ethereum and layer 2s. 
 
 - ⚡Open to work. 
 
